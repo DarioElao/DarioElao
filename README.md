@@ -10,7 +10,7 @@ Please feel free to check out my projects, and I am excited about the opportunit
 
 
 ## GITHUB STATS:
-[![Darios Github Stats](https://github-readme-stats.vercel.app/api?username=DarioElao&show_icons=true&icon_color=FDCA00&bg_color=232323&text_color=D9D9D9&title_color=D9D9D9&border_color=232323)
+![Darios Github Stats](https://github-readme-stats.vercel.app/api?username=DarioElao&show_icons=true&icon_color=FDCA00&bg_color=232323&text_color=D9D9D9&title_color=D9D9D9&border_color=232323)
 <!--
 **DarioElao/DarioElao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
