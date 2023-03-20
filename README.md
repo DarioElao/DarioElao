@@ -5,7 +5,7 @@ Welcome to my Github! As a Full-Stack Web Developer, I am well-equipped with the
 
 Please feel free to check out my projects, and I am excited about the opportunity to collaborate with this amazing community.
 
-
+[![Darios Github Stats](https://github-readme-stats.vercel.app/api?username=DarioElao)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **DarioElao/DarioElao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
