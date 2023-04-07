@@ -1,5 +1,4 @@
-<img width="1222" alt="Screenshot 2023-03-19 at 8 58 20 PM" src="https://user-images.githubusercontent.com/119917056/226222696-d02c85ee-7e10-4a8a-93cf-832f48b0d3c4.png">
-
+<img width="1222" alt="banner-logo" src="https://user-images.githubusercontent.com/119917056/230639833-38754d11-e0fa-4ee0-b777-ef8320b9837f.svg">
 
 ## ABOUT ME:
 Welcome to my Github! As a Full-Stack Web Developer, I am well-equipped with the necessary skills and knowledge required to design and develop applications that work seamlessly on both the front-end and back-end of web development. With my Full Stack Development certificate from UCF, I have been exposed to a diverse range of technologies, tools, and methodologies that have allowed me to acquire the required expertise to create responsive, user-friendly, and scalable web applications.
