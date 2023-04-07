@@ -1,4 +1,5 @@
-<img width="1680" alt="banner-darker" src="https://user-images.githubusercontent.com/119917056/230643230-07f89f45-109d-4fb2-b1f9-fafcd1143d2e.svg">
+<img width="1680" alt="banner" src="https://user-images.githubusercontent.com/119917056/230651909-31334391-30b0-4339-be02-6ed94df1da15.svg">
+
 
 
 ## ABOUT ME:
